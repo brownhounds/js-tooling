@@ -1,0 +1,11 @@
+{
+    "name": "root",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "brownhounds",
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {},
+    "devDependencies": {}
+}
