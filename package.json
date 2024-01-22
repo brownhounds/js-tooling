@@ -6,6 +6,8 @@
     "workspaces": [
         "packages/*"
     ],
-    "scripts": {},
-    "devDependencies": {}
+    "scripts": {
+        "publish-eslint": "cd ./packages/eslint-config && npm publish",
+        "publish-tsconfig": "cd ./packages/ts-config && npm publish"
+    }
 }
