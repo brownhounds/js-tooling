@@ -1,0 +1,10 @@
+{
+    "name": "@brownhounds/tsconfig",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "brownhounds",
+    "main": "index.js",
+    "files": [
+        "index.json"
+    ]
+}
