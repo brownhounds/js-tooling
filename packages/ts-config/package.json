@@ -6,5 +6,9 @@
     "main": "index.js",
     "files": [
         "index.json"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brownhounds/js-tooling.git"
+    }
 }
